@@ -1,0 +1,155 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\waterloo life\ai\final project\fish_classification\app\src\main\AndroidManifest.xml:18:1-43:12
+INJECTED from C:\waterloo life\ai\final project\fish_classification\app\src\main\AndroidManifest.xml:18:1-43:12
+INJECTED from C:\waterloo life\ai\final project\fish_classification\app\src\main\AndroidManifest.xml:18:1-43:12
+INJECTED from C:\waterloo life\ai\final project\fish_classification\app\src\main\AndroidManifest.xml:18:1-43:12
+MERGED from [com.android.support:design:25.2.0] C:\Users\Haihan\.gradle\caches\transforms-1\files-1.1\design-25.2.0.aar\429e004ee7fef62973dd8d1f559f749d\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:appcompat-v7:25.2.0] C:\Users\Haihan\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.2.0.aar\a7290af6632fd4dfa88a7d9f69f338f1\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Haihan\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\dcdbb4d060cc61520ed4894bad023ff2\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v13:25.2.0] C:\Users\Haihan\.gradle\caches\transforms-1\files-1.1\support-v13-25.2.0.aar\48d08bd5e97bc19d64bb703eab6aa935\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] C:\Users\Haihan\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.2.0.aar\eb3eabe8f5c3607164efc49462c2b786\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-vector-drawable:25.2.0] C:\Users\Haihan\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.2.0.aar\5f5fcc3ba9e16ce071ac5b8ae18eb803\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:recyclerview-v7:25.2.0] C:\Users\Haihan\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.2.0.aar\f08132a97e9fddb26f0cf8c49ea87ecf\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:25.2.0] C:\Users\Haihan\.gradle\caches\transforms-1\files-1.1\transition-25.2.0.aar\a772eb4164ccb6d0a28784f0113da2d3\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\Haihan\.gradle\caches\transforms-1\files-1.1\support-v4-25.2.0.aar\dc7787f586421fddbecb29df5e052904\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\Haihan\.gradle\caches\transforms-1\files-1.1\support-fragment-25.2.0.aar\5134ab5fe72e7cd0e3b30be855489489\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\Haihan\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.2.0.aar\98b9ad2f03c473dd3bbd145faad35fb1\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\Haihan\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.2.0.aar\e4bb7058d79fa01d4f9dbe4a93baae90\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\Haihan\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.2.0.aar\74f71ddc5a364025500bbc371fdcb547\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Haihan\.gradle\caches\transforms-1\files-1.1\support-compat-25.2.0.aar\c5a6172ec33f58744e2e573533ba1a00\AndroidManifest.xml:17:1-27:12
+MERGED from [org.tensorflow:tensorflow-lite:2.2.0] C:\Users\Haihan\.gradle\caches\transforms-1\files-1.1\tensorflow-lite-2.2.0.aar\8ac156541a70dc7bc61256d207255a82\AndroidManifest.xml:2:1-12:12
+INJECTED from C:\waterloo life\ai\final project\fish_classification\app\src\main\AndroidManifest.xml:18:1-43:12
+INJECTED from C:\waterloo life\ai\final project\fish_classification\app\src\main\AndroidManifest.xml:18:1-43:12
+INJECTED from C:\waterloo life\ai\final project\fish_classification\app\src\main\AndroidManifest.xml:18:1-43:12
+	package
+		ADDED from C:\waterloo life\ai\final project\fish_classification\app\src\main\AndroidManifest.xml:19:5-51
+		INJECTED from C:\waterloo life\ai\final project\fish_classification\app\src\main\AndroidManifest.xml
+		INJECTED from C:\waterloo life\ai\final project\fish_classification\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\waterloo life\ai\final project\fish_classification\app\src\main\AndroidManifest.xml
+		ADDED from C:\waterloo life\ai\final project\fish_classification\app\src\main\AndroidManifest.xml:18:1-43:12
+		INJECTED from C:\waterloo life\ai\final project\fish_classification\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\waterloo life\ai\final project\fish_classification\app\src\main\AndroidManifest.xml
+		ADDED from C:\waterloo life\ai\final project\fish_classification\app\src\main\AndroidManifest.xml:18:1-43:12
+		INJECTED from C:\waterloo life\ai\final project\fish_classification\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\waterloo life\ai\final project\fish_classification\app\src\main\AndroidManifest.xml:18:11-69
+uses-permission#android.permission.CAMERA
+ADDED from C:\waterloo life\ai\final project\fish_classification\app\src\main\AndroidManifest.xml:21:5-65
+	android:name
+		ADDED from C:\waterloo life\ai\final project\fish_classification\app\src\main\AndroidManifest.xml:21:22-62
+uses-feature#android.hardware.camera
+ADDED from C:\waterloo life\ai\final project\fish_classification\app\src\main\AndroidManifest.xml:23:5-60
+	android:name
+		ADDED from C:\waterloo life\ai\final project\fish_classification\app\src\main\AndroidManifest.xml:23:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from C:\waterloo life\ai\final project\fish_classification\app\src\main\AndroidManifest.xml:24:5-70
+	android:name
+		ADDED from C:\waterloo life\ai\final project\fish_classification\app\src\main\AndroidManifest.xml:24:19-67
+application
+ADDED from C:\waterloo life\ai\final project\fish_classification\app\src\main\AndroidManifest.xml:26:5-41:19
+MERGED from [com.android.support:design:25.2.0] C:\Users\Haihan\.gradle\caches\transforms-1\files-1.1\design-25.2.0.aar\429e004ee7fef62973dd8d1f559f749d\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:design:25.2.0] C:\Users\Haihan\.gradle\caches\transforms-1\files-1.1\design-25.2.0.aar\429e004ee7fef62973dd8d1f559f749d\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.2.0] C:\Users\Haihan\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.2.0.aar\a7290af6632fd4dfa88a7d9f69f338f1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.2.0] C:\Users\Haihan\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.2.0.aar\a7290af6632fd4dfa88a7d9f69f338f1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Haihan\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\dcdbb4d060cc61520ed4894bad023ff2\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Haihan\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\dcdbb4d060cc61520ed4894bad023ff2\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-v13:25.2.0] C:\Users\Haihan\.gradle\caches\transforms-1\files-1.1\support-v13-25.2.0.aar\48d08bd5e97bc19d64bb703eab6aa935\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v13:25.2.0] C:\Users\Haihan\.gradle\caches\transforms-1\files-1.1\support-v13-25.2.0.aar\48d08bd5e97bc19d64bb703eab6aa935\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] C:\Users\Haihan\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.2.0.aar\eb3eabe8f5c3607164efc49462c2b786\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] C:\Users\Haihan\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.2.0.aar\eb3eabe8f5c3607164efc49462c2b786\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.2.0] C:\Users\Haihan\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.2.0.aar\5f5fcc3ba9e16ce071ac5b8ae18eb803\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-vector-drawable:25.2.0] C:\Users\Haihan\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.2.0.aar\5f5fcc3ba9e16ce071ac5b8ae18eb803\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:transition:25.2.0] C:\Users\Haihan\.gradle\caches\transforms-1\files-1.1\transition-25.2.0.aar\a772eb4164ccb6d0a28784f0113da2d3\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:transition:25.2.0] C:\Users\Haihan\.gradle\caches\transforms-1\files-1.1\transition-25.2.0.aar\a772eb4164ccb6d0a28784f0113da2d3\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\Haihan\.gradle\caches\transforms-1\files-1.1\support-v4-25.2.0.aar\dc7787f586421fddbecb29df5e052904\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\Haihan\.gradle\caches\transforms-1\files-1.1\support-v4-25.2.0.aar\dc7787f586421fddbecb29df5e052904\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\Haihan\.gradle\caches\transforms-1\files-1.1\support-fragment-25.2.0.aar\5134ab5fe72e7cd0e3b30be855489489\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\Haihan\.gradle\caches\transforms-1\files-1.1\support-fragment-25.2.0.aar\5134ab5fe72e7cd0e3b30be855489489\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\Haihan\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.2.0.aar\98b9ad2f03c473dd3bbd145faad35fb1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\Haihan\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.2.0.aar\98b9ad2f03c473dd3bbd145faad35fb1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\Haihan\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.2.0.aar\e4bb7058d79fa01d4f9dbe4a93baae90\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\Haihan\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.2.0.aar\e4bb7058d79fa01d4f9dbe4a93baae90\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\Haihan\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.2.0.aar\74f71ddc5a364025500bbc371fdcb547\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\Haihan\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.2.0.aar\74f71ddc5a364025500bbc371fdcb547\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Haihan\.gradle\caches\transforms-1\files-1.1\support-compat-25.2.0.aar\c5a6172ec33f58744e2e573533ba1a00\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Haihan\.gradle\caches\transforms-1\files-1.1\support-compat-25.2.0.aar\c5a6172ec33f58744e2e573533ba1a00\AndroidManifest.xml:25:5-20
+MERGED from [org.tensorflow:tensorflow-lite:2.2.0] C:\Users\Haihan\.gradle\caches\transforms-1\files-1.1\tensorflow-lite-2.2.0.aar\8ac156541a70dc7bc61256d207255a82\AndroidManifest.xml:10:5-20
+MERGED from [org.tensorflow:tensorflow-lite:2.2.0] C:\Users\Haihan\.gradle\caches\transforms-1\files-1.1\tensorflow-lite-2.2.0.aar\8ac156541a70dc7bc61256d207255a82\AndroidManifest.xml:10:5-20
+	android:label
+		ADDED from C:\waterloo life\ai\final project\fish_classification\app\src\main\AndroidManifest.xml:27:9-44
+	android:icon
+		ADDED from C:\waterloo life\ai\final project\fish_classification\app\src\main\AndroidManifest.xml:28:9-39
+	android:allowBackup
+		ADDED from C:\waterloo life\ai\final project\fish_classification\app\src\main\AndroidManifest.xml:26:18-44
+	android:theme
+		ADDED from C:\waterloo life\ai\final project\fish_classification\app\src\main\AndroidManifest.xml:29:9-45
+activity#com.example.android.tflitecamerademo.CameraActivity
+ADDED from C:\waterloo life\ai\final project\fish_classification\app\src\main\AndroidManifest.xml:31:9-37:20
+	android:label
+		ADDED from C:\waterloo life\ai\final project\fish_classification\app\src\main\AndroidManifest.xml:32:19-51
+	android:name
+		ADDED from C:\waterloo life\ai\final project\fish_classification\app\src\main\AndroidManifest.xml:31:19-85
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\waterloo life\ai\final project\fish_classification\app\src\main\AndroidManifest.xml:33:13-36:29
+action#android.intent.action.MAIN
+ADDED from C:\waterloo life\ai\final project\fish_classification\app\src\main\AndroidManifest.xml:34:17-69
+	android:name
+		ADDED from C:\waterloo life\ai\final project\fish_classification\app\src\main\AndroidManifest.xml:34:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\waterloo life\ai\final project\fish_classification\app\src\main\AndroidManifest.xml:35:17-77
+	android:name
+		ADDED from C:\waterloo life\ai\final project\fish_classification\app\src\main\AndroidManifest.xml:35:27-74
+activity#com.example.android.tflitecamerademo.LocalActivity
+ADDED from C:\waterloo life\ai\final project\fish_classification\app\src\main\AndroidManifest.xml:39:9-40:20
+	android:name
+		ADDED from C:\waterloo life\ai\final project\fish_classification\app\src\main\AndroidManifest.xml:39:19-48
+uses-sdk
+INJECTED from C:\waterloo life\ai\final project\fish_classification\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\waterloo life\ai\final project\fish_classification\app\src\main\AndroidManifest.xml
+INJECTED from C:\waterloo life\ai\final project\fish_classification\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:25.2.0] C:\Users\Haihan\.gradle\caches\transforms-1\files-1.1\design-25.2.0.aar\429e004ee7fef62973dd8d1f559f749d\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:25.2.0] C:\Users\Haihan\.gradle\caches\transforms-1\files-1.1\design-25.2.0.aar\429e004ee7fef62973dd8d1f559f749d\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.2.0] C:\Users\Haihan\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.2.0.aar\a7290af6632fd4dfa88a7d9f69f338f1\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.2.0] C:\Users\Haihan\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.2.0.aar\a7290af6632fd4dfa88a7d9f69f338f1\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Haihan\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\dcdbb4d060cc61520ed4894bad023ff2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Haihan\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\dcdbb4d060cc61520ed4894bad023ff2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v13:25.2.0] C:\Users\Haihan\.gradle\caches\transforms-1\files-1.1\support-v13-25.2.0.aar\48d08bd5e97bc19d64bb703eab6aa935\AndroidManifest.xml:21:5-23:55
+MERGED from [com.android.support:support-v13:25.2.0] C:\Users\Haihan\.gradle\caches\transforms-1\files-1.1\support-v13-25.2.0.aar\48d08bd5e97bc19d64bb703eab6aa935\AndroidManifest.xml:21:5-23:55
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] C:\Users\Haihan\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.2.0.aar\eb3eabe8f5c3607164efc49462c2b786\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] C:\Users\Haihan\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.2.0.aar\eb3eabe8f5c3607164efc49462c2b786\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.2.0] C:\Users\Haihan\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.2.0.aar\5f5fcc3ba9e16ce071ac5b8ae18eb803\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-vector-drawable:25.2.0] C:\Users\Haihan\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.2.0.aar\5f5fcc3ba9e16ce071ac5b8ae18eb803\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:recyclerview-v7:25.2.0] C:\Users\Haihan\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.2.0.aar\f08132a97e9fddb26f0cf8c49ea87ecf\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.2.0] C:\Users\Haihan\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.2.0.aar\f08132a97e9fddb26f0cf8c49ea87ecf\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.2.0] C:\Users\Haihan\.gradle\caches\transforms-1\files-1.1\transition-25.2.0.aar\a772eb4164ccb6d0a28784f0113da2d3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:25.2.0] C:\Users\Haihan\.gradle\caches\transforms-1\files-1.1\transition-25.2.0.aar\a772eb4164ccb6d0a28784f0113da2d3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\Haihan\.gradle\caches\transforms-1\files-1.1\support-v4-25.2.0.aar\dc7787f586421fddbecb29df5e052904\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\Haihan\.gradle\caches\transforms-1\files-1.1\support-v4-25.2.0.aar\dc7787f586421fddbecb29df5e052904\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\Haihan\.gradle\caches\transforms-1\files-1.1\support-fragment-25.2.0.aar\5134ab5fe72e7cd0e3b30be855489489\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\Haihan\.gradle\caches\transforms-1\files-1.1\support-fragment-25.2.0.aar\5134ab5fe72e7cd0e3b30be855489489\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\Haihan\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.2.0.aar\98b9ad2f03c473dd3bbd145faad35fb1\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\Haihan\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.2.0.aar\98b9ad2f03c473dd3bbd145faad35fb1\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\Haihan\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.2.0.aar\e4bb7058d79fa01d4f9dbe4a93baae90\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\Haihan\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.2.0.aar\e4bb7058d79fa01d4f9dbe4a93baae90\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\Haihan\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.2.0.aar\74f71ddc5a364025500bbc371fdcb547\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\Haihan\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.2.0.aar\74f71ddc5a364025500bbc371fdcb547\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Haihan\.gradle\caches\transforms-1\files-1.1\support-compat-25.2.0.aar\c5a6172ec33f58744e2e573533ba1a00\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Haihan\.gradle\caches\transforms-1\files-1.1\support-compat-25.2.0.aar\c5a6172ec33f58744e2e573533ba1a00\AndroidManifest.xml:21:5-23:58
+MERGED from [org.tensorflow:tensorflow-lite:2.2.0] C:\Users\Haihan\.gradle\caches\transforms-1\files-1.1\tensorflow-lite-2.2.0.aar\8ac156541a70dc7bc61256d207255a82\AndroidManifest.xml:7:5-8:41
+MERGED from [org.tensorflow:tensorflow-lite:2.2.0] C:\Users\Haihan\.gradle\caches\transforms-1\files-1.1\tensorflow-lite-2.2.0.aar\8ac156541a70dc7bc61256d207255a82\AndroidManifest.xml:7:5-8:41
+INJECTED from C:\waterloo life\ai\final project\fish_classification\app\src\main\AndroidManifest.xml
+INJECTED from C:\waterloo life\ai\final project\fish_classification\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.2.0] C:\Users\Haihan\.gradle\caches\transforms-1\files-1.1\design-25.2.0.aar\429e004ee7fef62973dd8d1f559f749d\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\waterloo life\ai\final project\fish_classification\app\src\main\AndroidManifest.xml
+		ADDED from C:\waterloo life\ai\final project\fish_classification\app\src\main\AndroidManifest.xml
+		INJECTED from C:\waterloo life\ai\final project\fish_classification\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\waterloo life\ai\final project\fish_classification\app\src\main\AndroidManifest.xml
+		ADDED from C:\waterloo life\ai\final project\fish_classification\app\src\main\AndroidManifest.xml
+		MERGED from C:\waterloo life\ai\final project\fish_classification\app\src\main\AndroidManifest.xml
+		INJECTED from C:\waterloo life\ai\final project\fish_classification\app\src\main\AndroidManifest.xml
